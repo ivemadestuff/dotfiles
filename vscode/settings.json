@@ -1,0 +1,40 @@
+{
+  // Appearance
+  "window.autoDetectColorScheme": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.preferredDarkColorTheme": "Dark Modern",
+  "workbench.activityBar.location": "top",
+
+  // Editor appearance
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.6,
+  "editor.wordWrap": "on",
+  "editor.mouseWheelZoom": true,
+
+  // Indentation and formatting
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+
+  // Terminal
+  "terminal.integrated.fontSize": 16,
+
+  // Tabs and file explorer
+  "workbench.editor.enablePreview": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+
+  // Search
+  "search.useGlobalIgnoreFiles": true,
+  "search.useParentIgnoreFiles": true,
+
+  // AI and extensions
+  "chat.disableAIFeatures": true,
+  "extensions.ignoreRecommendations": true,
+
+  // External browser
+  "workbench.externalBrowser": "brave"
+}
