@@ -1,0 +1,21 @@
+{
+  "theme": {
+    "mode": "dark",
+    "light": "One Light",
+    "dark": "One Dark"
+  },
+  "icon_theme": {
+    "mode": "dark",
+    "light": "Material Icon Theme",
+    "dark": "Material Icon Theme"
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 15,
+  "project_panel": {
+    "dock": "left"
+  },
+  "markdown_preview": {
+    "max_width": 1000.0,
+    "font_size": 16.0
+  }
+}
